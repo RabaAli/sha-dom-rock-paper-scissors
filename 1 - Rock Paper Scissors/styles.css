@@ -1,0 +1,23 @@
+button{
+    height: 100%;
+    width: 30%;
+    display: inline;
+    border-radius: 40px;
+    
+    background-color: rgb(238, 255, 0);
+}
+body{
+    background-color: rgb(78, 194, 230);
+}
+  
+#caja {
+    
+    width: 60%;
+    height: 200px;
+  
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    right: 30%;
+  }
+ 
